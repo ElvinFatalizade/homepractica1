@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\homepractica\homepractica\bin\Debug\homepractica.exe.config
+C:\Users\user\source\repos\homepractica\homepractica\bin\Debug\homepractica.exe
+C:\Users\user\source\repos\homepractica\homepractica\bin\Debug\homepractica.pdb
+C:\Users\user\source\repos\homepractica\homepractica\obj\Debug\homepractica.csprojAssemblyReference.cache
+C:\Users\user\source\repos\homepractica\homepractica\obj\Debug\homepractica.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\homepractica\homepractica\obj\Debug\homepractica.exe
+C:\Users\user\source\repos\homepractica\homepractica\obj\Debug\homepractica.pdb
